@@ -1,0 +1,30 @@
+{
+  "Message" : {
+    "NameSpace" : "system",
+    "Name" : "datastore",
+    "Version" : "00.01.00",
+    "Description" : "Message definition to store data in the datastore",
+    "Fixed" : "true",
+    "Persist":"true",
+    "Elements" : [
+      {
+        "Field" : {
+          "Name" : "Id",
+          "Type" : "System.Int"
+        }
+      },
+      {
+        "Field" : {
+          "Name" : "Description",
+          "Type" : "System.String"
+        }
+      }
+    ],
+    "PartitionKey": [
+      "Id"
+    ],
+    "PrimaryKey": [
+      "Id"
+    ]
+  }
+}

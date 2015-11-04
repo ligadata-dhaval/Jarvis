@@ -1,0 +1,25 @@
+2015-11-04 10:11:03,210 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-11-04 10:11:03,210 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-11-04 10:11:03,210 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-11-04 10:11:03,210 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-11-04 10:11:03,211 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-11-04 10:11:03,211 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-11-04 10:11:03,211 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-11-04 10:11:05,901 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-11-04 10:12:00,997 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-11-04 10:12:00,998 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-11-04 10:12:00,998 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-11-04 10:12:00,998 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-11-04 10:12:00,998 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-11-04 10:12:00,998 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-11-04 10:12:00,998 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-11-04 10:12:02,932 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-11-04 10:13:00,725 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-11-04 10:13:00,725 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-11-04 10:13:00,725 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-11-04 10:13:00,725 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-11-04 10:13:00,725 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-11-04 10:13:00,725 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-11-04 10:13:00,725 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-11-04 10:13:02,711 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-11-04 10:13:16,269 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES

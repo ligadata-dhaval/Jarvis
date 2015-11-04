@@ -1,0 +1,6 @@
+{
+    "JarvisModel":{
+        "Dependencies":["kamanjabase_2.10-1.0.jar"],
+        "MessageAndContainers":["system.input","system.jarvis","system.datastore"]
+    }
+}

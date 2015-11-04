@@ -1,0 +1,93 @@
+2015-10-09 15:08:57,615 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-09 15:08:57,616 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-09 15:08:57,616 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-09 15:08:57,616 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-09 15:08:57,616 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-09 15:08:57,616 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-09 15:08:57,616 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-09 15:10:56,111 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-09 15:10:56,114 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-09 15:10:56,114 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-09 15:10:56,114 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-09 15:10:56,114 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-09 15:10:56,114 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-09 15:10:56,114 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-09 15:11:19,199 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-09 15:11:19,200 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-09 15:11:19,200 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-09 15:11:19,200 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-09 15:11:19,200 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-09 15:11:19,200 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-09 15:11:19,200 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-09 15:11:30,608 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-09 15:12:02,237 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-09 15:12:02,238 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-09 15:12:02,238 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-09 15:12:02,238 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-09 15:12:02,238 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-09 15:12:02,238 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-09 15:12:02,238 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-09 15:12:12,045 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-09 15:12:12,045 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-09 15:12:12,045 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-09 15:12:12,045 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-09 15:12:12,045 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-09 15:12:12,046 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-09 15:12:12,046 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-09 15:12:15,565 - com.ligadata.MetadataAPI.CompilerProxy - WARN - Unknown dependency system.msg1
+2015-10-09 15:12:15,570 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - COMPILER_PROXY: Unable to find at least one message in the Metadata for this model
+2015-10-09 15:12:15,570 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - COMPILER_PROXY: unable to determine model metadata information during AddModel. ERROR metadataapi.helloworldmodel
+2015-10-09 15:12:24,715 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-09 15:12:24,716 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-09 15:12:24,716 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-09 15:12:24,716 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-09 15:12:24,716 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-09 15:12:24,716 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-09 15:12:24,716 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-09 15:12:42,238 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-09 15:13:10,718 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-09 15:13:10,719 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-09 15:13:10,719 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-09 15:13:10,719 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-09 15:13:10,719 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-09 15:13:10,719 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-09 15:13:10,719 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-09 15:13:43,573 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-09 15:13:50,549 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-09 15:13:50,549 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-09 15:13:50,550 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-09 15:13:50,550 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-09 15:13:50,550 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-09 15:13:50,550 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-09 15:13:50,550 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-09 15:14:08,191 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-09 15:14:08,192 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-09 15:14:08,192 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-09 15:14:08,192 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-09 15:14:08,192 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-09 15:14:08,192 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-09 15:14:08,192 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-09 15:14:22,307 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-09 15:14:22,307 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-09 15:14:22,308 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-09 15:14:22,308 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-09 15:14:22,308 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-09 15:14:22,308 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-09 15:14:22,308 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-16 00:27:43,582 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-16 00:27:43,584 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-16 00:27:43,585 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-16 00:27:43,585 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-16 00:27:43,585 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-16 00:27:43,585 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-16 00:27:43,585 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-16 00:27:45,478 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node 50 not found in metadata
+2015-10-16 00:28:00,084 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-16 00:28:00,085 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-16 00:28:00,085 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-16 00:28:00,085 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-16 00:28:00,085 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-16 00:28:00,085 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-16 00:28:00,085 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-16 00:28:01,972 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node 50 not found in metadata
+2015-10-16 00:28:34,220 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES

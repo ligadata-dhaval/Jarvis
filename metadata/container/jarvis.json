@@ -1,0 +1,23 @@
+{
+   	"Container": {
+   		"NameSpace":"system",
+   		"Name":"jarvis",
+   		"Version":"00.01.00",
+   		"Description":"Container for Jarvis Codes",
+   		"Fixed":"true",
+   		"Elements" : [
+   		   {
+   		   "Field" : {
+                "Name":"id",
+                "Type":"System.Int"
+   		     }
+   		   },
+   		   {
+   		   "Field" : {
+                "Name":"description",
+                "Type":"System.String"
+   		     }
+   		   }
+   		]
+   	}
+}
